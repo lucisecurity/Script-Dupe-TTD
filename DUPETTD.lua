@@ -1,0 +1,27 @@
+getgenv().Config = {
+  ["AutoReplay"] = true,
+  ["AutoJoinMatch"] = true,
+  ["TPLobbylfPlayer"] = true,
+  ["SelectMap"] = "Egg Isaland",
+  ["AutoVoteDifficulty"] = "true",
+  ["SelectDifficulty"] = "Nightmare",
+  ["SelectMacro"] = "NousigiHub/Macro/loisprite",
+  ["AutoSkip"] = true,
+  ["DeleteMap"] = true,
+  ["PlayMacro"] = true,
+  ["AutoSave"] = true,
+  ["BoostFPS"] = true,
+  ["AutoClaimQuest"] = true,
+  ["AutoClaimEasterQuest"] = true,
+  ["AutoClaimEventsPass"] = true,
+  ["WhiteScreen"] = true,
+  ["DelayJoin"] = "60",
+  ["PlacingFailsafe"] = true,
+  ["ExchangeTier"] = "3"
+  ["AutoExchangeEgg"] = "true"
+  ["MaillName"] = "Jadjlaeer"
+  ["RequiredGem"] = 0,
+  ["AutoMail'] = true,
+  ["WH_MatchComplete"] = true,
+  ["WebhookURL"] = "https://discord.com/api/webhooks/1236303511449374720/v5hjrWvyOf_to6ggKJqldwzuJd1PLf0zidoMufoWIbp58cErwV4piG0juH4zzz_F1Ti4",
+}
